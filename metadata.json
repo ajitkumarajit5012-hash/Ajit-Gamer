@@ -1,0 +1,6 @@
+{
+  "name": "Lafanga AI",
+  "description": "Hindi AI voice and vision assistant with voice input, automatic Hindi female voice replies, and photo analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

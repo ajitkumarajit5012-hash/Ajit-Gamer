@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lafanga AI</string>
+    <string name="subtitle_voice_assistant">Hindi Voice &amp; Vision AI</string>
+    <string name="creator_tagline">Created by Ajit Lafanga Bhai • Saharsa, Bihar</string>
+    <string name="welcome_title">नमस्ते! मैं Lafanga AI हूँ</string>
+    <string name="welcome_subtitle">हिंदी में बोलें, लिखें या फ़ोटो भेजकर कुछ भी पूछें — हर जवाब साफ़ और तेज़ हिंदी महिला आवाज़ में मिलेगा।</string>
+    <string name="listening_label">सुन रही हूँ… हिंदी में बोलिए</string>
+    <string name="speaking_label">बोल रही हूँ…</string>
+    <string name="thinking_label">सोच रही हूँ…</string>
+    <string name="input_placeholder">हिंदी या हिंग्लिश में पूछें…</string>
+    <string name="cd_mic_button">हिंदी में बोलने के लिए माइक दबाएं</string>
+    <string name="cd_stop_mic">सुनना बंद करें</string>
+    <string name="cd_camera_button">कैमरा से फ़ोटो लें</string>
+    <string name="cd_gallery_button">गैलरी से फ़ोटो चुनें</string>
+    <string name="cd_attach_photo">फ़ोटो या कैमरा चुनें</string>
+    <string name="cd_send_button">संदेश भेजें</string>
+    <string name="cd_clear_chat">चैट साफ़ करें</string>
+    <string name="cd_voice_toggle">ऑटो हिंदी आवाज़ टॉगल करें</string>
+    <string name="cd_stop_speaking">आवाज़ रोकें</string>
+    <string name="cd_replay_voice">आवाज़ में दोबारा सुनें</string>
+    <string name="cd_remove_image">चुनी हुई फ़ोटो हटाएं</string>
+    <string name="cd_creator_info">निर्माता जानकारी</string>
+    <string name="clear_chat_title">चैट साफ़ करें?</string>
+    <string name="clear_chat_message">क्या आप पूरी बातचीत हटाना चाहते हैं? इसके बाद नई शुरुआत होगी।</string>
+    <string name="action_clear">साफ़ करें</string>
+    <string name="action_cancel">रद्द करें</string>
+    <string name="action_camera">कैमरा</string>
+    <string name="action_gallery">गैलरी</string>
+    <string name="photo_prompt_default">इस फ़ोटो को ध्यान से देखकर हिंदी में विस्तार से बताइए।</string>
+    <string name="mic_permission_denied">माइक की अनुमति नहीं मिली। सेटिंग्स से माइक्रोफ़ोन अनुमति दें या टाइप करके पूछें।</string>
+    <string name="camera_permission_denied">कैमरे की अनुमति नहीं मिली। आप गैलरी से फ़ोटो चुन सकते हैं।</string>
+    <string name="speech_not_available">इस डिवाइस पर हिंदी वॉइस इनपुट उपलब्ध नहीं है। कृपया टाइप करके पूछें।</string>
+</resources>
